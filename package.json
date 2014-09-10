@@ -1,0 +1,14 @@
+{
+  "name": "please-hold",
+  "version": "0.0.1",
+  "description": "An HTML custom element loading icon",
+  "main": "dist/index.js",
+  "devDependencies": {
+    "gulp": "^3.8.8",
+    "gulp-browserify": "^0.5.0",
+    "gulp-rename": "^1.2.0",
+    "gulp-watch": "^1.0.2"
+  },
+  "author": "Brent Jackson",
+  "license": "MIT"
+}
